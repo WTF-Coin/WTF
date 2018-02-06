@@ -1,0 +1,9 @@
+Building WTF
+
+See doc/readme-qt.rst for instructions on building WTF-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WTF.
+
+See doc/build-*.txt for instructions on building wtfd,
+the intended-for-services, no-graphical-interface, reference
+implementation of WTF.
