@@ -1,7 +1,7 @@
 WTF integration/staging tree
 ================================
 
-https://github.com/WTF-Coin/wtf
+http://www.wtf.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -10,13 +10,16 @@ What is WTF?
 ----------------
 
 WTF is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 15 minute block targets - Get your a$$ back to work, I pay you in 15 minute block, and no rounding up! WTF!
- - ~365 million total coins
- - 7.5 coins per block - It's the federal minimum wage, get over it, do you think you're special or soemething! WTF!
- - 1 blocks to retarget difficulty
+ - 2.5 minute block targets
+ - subsidy halves in 840k blocks (~4 years)
+ - ~84 million total coins
+
+The rest is the same as Bitcoin.
+ - 50 coins per block
+ - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the WTF client sofware, see https://github.com/WTF-Coin/wtf.
+the WTF client sofware, see http://www.wtf.org.
 
 License
 -------
